@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static method", "static method\static method.csproj", "{8E2B11F1-7578-428B-A2DA-A8A7DA16C01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "non-StaticMethod", "non-StaticMethod\non-StaticMethod.csproj", "{88CF9E76-76C1-4C66-8FDD-57E148CD5426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentTasksForEachThread", "DifferentTasksForEachThread\DifferentTasksForEachThread.csproj", "{372AFB5C-FCB3-40CF-BA64-0A6281C7EC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneThread", "OneThread\OneThread.csproj", "{95A0F3A5-A937-42ED-8EAD-5D144ABFD5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpawningTwoThreads", "SpawningTwoThreads\SpawningTwoThreads.csproj", "{127B9473-E30F-4864-B27D-FF12E7670476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dual-ThreadingUsingThread.Sleep", "Dual-ThreadingUsingThread.Sleep\Dual-ThreadingUsingThread.Sleep.csproj", "{87CBC72B-89A9-4699-A396-D03CA6B463BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2B11F1-7578-428B-A2DA-A8A7DA16C01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2B11F1-7578-428B-A2DA-A8A7DA16C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2B11F1-7578-428B-A2DA-A8A7DA16C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2B11F1-7578-428B-A2DA-A8A7DA16C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CF9E76-76C1-4C66-8FDD-57E148CD5426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CF9E76-76C1-4C66-8FDD-57E148CD5426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CF9E76-76C1-4C66-8FDD-57E148CD5426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CF9E76-76C1-4C66-8FDD-57E148CD5426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372AFB5C-FCB3-40CF-BA64-0A6281C7EC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372AFB5C-FCB3-40CF-BA64-0A6281C7EC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372AFB5C-FCB3-40CF-BA64-0A6281C7EC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372AFB5C-FCB3-40CF-BA64-0A6281C7EC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A0F3A5-A937-42ED-8EAD-5D144ABFD5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A0F3A5-A937-42ED-8EAD-5D144ABFD5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A0F3A5-A937-42ED-8EAD-5D144ABFD5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A0F3A5-A937-42ED-8EAD-5D144ABFD5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127B9473-E30F-4864-B27D-FF12E7670476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127B9473-E30F-4864-B27D-FF12E7670476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127B9473-E30F-4864-B27D-FF12E7670476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127B9473-E30F-4864-B27D-FF12E7670476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CBC72B-89A9-4699-A396-D03CA6B463BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CBC72B-89A9-4699-A396-D03CA6B463BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CBC72B-89A9-4699-A396-D03CA6B463BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CBC72B-89A9-4699-A396-D03CA6B463BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DA8D9B-51F3-4722-9787-BD49CC88C9FF}
+	EndGlobalSection
+EndGlobal

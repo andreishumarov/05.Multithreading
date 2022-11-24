@@ -1,0 +1,14 @@
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.exe
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.deps.json
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.runtimeconfig.json
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.runtimeconfig.dev.json
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.dll
+F:\11A-andrei\05 Multithreading\static method\static method\bin\Debug\netcoreapp3.1\static method.pdb
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.csproj.AssemblyReference.cache
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.GeneratedMSBuildEditorConfig.editorconfig
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.AssemblyInfoInputs.cache
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.AssemblyInfo.cs
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.csproj.CoreCompileInputs.cache
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.dll
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.pdb
+F:\11A-andrei\05 Multithreading\static method\static method\obj\Debug\netcoreapp3.1\static method.genruntimeconfig.cache
