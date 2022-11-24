@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dual-ThreadingUsingThread.Sleep/1.0.0": {
+        "runtime": {
+          "Dual-ThreadingUsingThread.Sleep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dual-ThreadingUsingThread.Sleep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

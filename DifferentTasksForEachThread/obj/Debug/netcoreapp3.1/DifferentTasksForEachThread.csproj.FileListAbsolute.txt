@@ -1,0 +1,13 @@
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.exe
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.deps.json
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.runtimeconfig.json
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.runtimeconfig.dev.json
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.dll
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\bin\Debug\netcoreapp3.1\DifferentTasksForEachThread.pdb
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.GeneratedMSBuildEditorConfig.editorconfig
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.AssemblyInfoInputs.cache
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.AssemblyInfo.cs
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.csproj.CoreCompileInputs.cache
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.dll
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.pdb
+F:\11A-andrei\05 Multithreading\static method\DifferentTasksForEachThread\obj\Debug\netcoreapp3.1\DifferentTasksForEachThread.genruntimeconfig.cache
